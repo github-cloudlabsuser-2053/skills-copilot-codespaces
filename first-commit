@@ -1,0 +1,7 @@
+echo "# skills-copilot-codespaces" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/github-cloudlabsuser-2053/skills-copilot-codespaces.git
+git push -u origin main
